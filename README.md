@@ -4,15 +4,15 @@
 
 ## For [LinkedIn post  and  presentation](https://www.linkedin.com/feed/update/urn:li:activity:7158746226895548416/)
 
-## Dashboard features:
-(1) All the filter (month, date, age-group, policy, city and sales mode) are in left side of dashboard.
-(2) In filter section, there is a button on top for clearing all the filter selected.
-(3) In general view , created a button for switching Revenue by month to Customers by month.
 
 # Shield Insurance Company Overview:
 
 Shield Insurance Company is a reputable insurance provider known for its commitment to comprehensive coverage and customer-centric services. With a focus on innovation, transparency, and ethical practices, the company offers a diverse range of insurance products tailored for both individuals and businesses.
 
+## Dashboard features:
+(1) All the filter (month, date, age-group, policy, city and sales mode) are in left side of dashboard.<br>
+(2) In filter section, there is a button on top for clearing all the filter selected.<br>
+(3) In general view , created a button for switching Revenue by month to Customers by month.<br>
 
 ## [Data Model](https://github.com/Akash-Sureshbabu/Shield-Insurance-Analysis/blob/main/Data%20Model.pdf)
 Dashboard contain 5 table dim_customer, dim_policies, dim_date, fact_premiums and fact_settlements.
@@ -29,6 +29,6 @@ General view is for tracking daily customer and revenue growth and monthly custo
 Revenue and customer are analysis through sales mode that is offline-Agent, Offline direct, Online-app, Online-Website.
 
 ## [Age-group View](https://github.com/Akash-Sureshbabu/Shield-Insurance-Analysis/blob/main/Age%20group%20view.pdf)
-Revenue and customer analysis throungh various age-group from 18-24, 25-30, 31-40, 41-50, 51-65 and 65+
+Revenue and customer analysis throungh various age-group from 18-24, 25-30, 31-40, 41-50, 51-65 and 65+.
 
 
