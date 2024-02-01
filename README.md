@@ -4,6 +4,11 @@
 
 ## For [LinkedIn post  and  presentation](https://www.linkedin.com/feed/update/urn:li:activity:7158746226895548416/)
 
+## Dashboard features:
+(1) All the filter (month, date, age-group, policy, city and sales mode) are in left side of dashboard.
+(2) In filter section, there is a button on top for clearing all the filter selected.
+(3) In general view , created a button for switching Revenue by month to Customers by month.
+
 # Shield Insurance Company Overview:
 
 Shield Insurance Company is a reputable insurance provider known for its commitment to comprehensive coverage and customer-centric services. With a focus on innovation, transparency, and ethical practices, the company offers a diverse range of insurance products tailored for both individuals and businesses.
