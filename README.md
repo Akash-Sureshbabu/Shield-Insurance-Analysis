@@ -26,9 +26,10 @@ Shield Insurance Company is a reputable insurance provider known for its commitm
 ### General view is for tracking daily customer and revenue growth and monthly customer growth.<br>
 
 1. Card for Total Revenue amd Customer.<br>
-2. KPI for DRC(Daily Revenue Growth), DCG(Daily Customer Growth), MRG(Monthly Revenue Growth), MCG(Monthly Customer Growth).<br>
-3. Area chart for Revenue and Customer by months.<br>  
-4. Revenue and Customer split by city and age-group.<br>
+2. KPI for DRC (Daily Revenue Growth), DCG (Daily Customer Growth), MRG (Monthly Revenue Growth),<br>
+   MCG (Monthly Customer Growth).<br>
+4. Area chart for Revenue and Customer by months.<br>  
+5. Revenue and Customer split by city and age-group.<br>
 
 
 ## [Sales View](https://github.com/Akash-Sureshbabu/Shield-Insurance-Analysis/blob/main/Sales%20mode%20View.pdf) 
